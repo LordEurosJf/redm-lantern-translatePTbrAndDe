@@ -1,10 +1,5 @@
 local WEAPON_LANTERN = 1247405313
 
---[[
-    -164645981  - lantern (no weapon wheel)
-    1247405313  - lantern davy (in weapon wheel)
-]]
-
 function ApplyShopItemToPed(ped, shopItemHash, immediately, isMultiplayer)
     Citizen.InvokeNative(0xD3A7B003ED343FD9, ped, shopItemHash, immediately, isMultiplayer, false)
 end
