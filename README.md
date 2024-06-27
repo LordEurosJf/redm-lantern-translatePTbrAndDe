@@ -11,3 +11,8 @@ Unquiped:
 Equiped:
 
 ![image](https://github.com/draobrehtom/redm-lantern/assets/6503721/cd8f1f27-43ad-44ec-97e8-472d8479334a)
+
+
+# notes
+
+/horselantern - показывать уведомление когда используешь команду впервые (не рядом с лошадью, без фонаря в руках)
