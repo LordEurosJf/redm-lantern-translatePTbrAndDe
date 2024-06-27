@@ -7,6 +7,7 @@ Use the right mouse button to focus on a horse and equip/unequip your lantern on
 Alternatively, you can use the command `/horselantern`. An additional command `/getlantern` is available to retrieve the lantern. All commands can be enabled/disabled in [config.lua](config.lua).
 
 Unquipped:
+
 ![image](https://github.com/draobrehtom/redm-lantern/assets/6503721/ed92891f-b425-4a82-a217-22509877ec1b)
 
 Equiped:
