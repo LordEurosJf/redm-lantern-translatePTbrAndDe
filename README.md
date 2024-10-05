@@ -1,4 +1,6 @@
-# Equip Lantern On/From horse in RedM
+## (Added PT-BR and German translation)
+
+## Equip Lantern On/From horse in RedM
 
 Use the right mouse button to focus on a horse and equip/unequip your lantern onto/from it.
 
